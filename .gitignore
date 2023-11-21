@@ -1,0 +1,45 @@
+# Compiled Object files
+*.o
+*.obj
+*.so
+*.a
+*.dll
+*.dylib
+*.lib
+*.exe
+*.out
+
+# Build directories
+/build/
+/debug/
+/release/
+
+# Cache directories
+.ccls-cache/
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+*.cmake
+Makefile
+
+# IDE and editor files
+.vscode/
+.vim/
+*.swp
+*.swo
+*.swn
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# python
+.venv/
+
+# docs
+docs/html/
+docs/latex/
+docs/xml/
+docs/sphinx/build/
